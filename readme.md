@@ -1,0 +1,1 @@
+ini adalah hanyalah koding yang kutiru dari youtube golandojo perihal guessing-dojo
